@@ -15,7 +15,7 @@ prompt2 = PromptTemplate(
     input_variables=['text']
 )
 
-model = ChatOpenAI()
+
 
 parser = StrOutputParser()
 
